@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/ardanlabs/python-go/pyext/bench/pb"
+	"github.com/353words/pyext/bench/pb"
 )
 
 type BenchServer struct {
